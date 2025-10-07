@@ -1,6 +1,6 @@
 # cybersecurity-portfolio
 My cybersecurity learning journey and lab reports (Coursera)
-# 🛡️ Konstantinos Mitropoulos – Cybersecurity Portfolio
+# 🛡️  Cybersecurity Portfolio
 
 Welcome to my cybersecurity learning portfolio.  
 Here I document my progress through courses, labs, and personal projects.
