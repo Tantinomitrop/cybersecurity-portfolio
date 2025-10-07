@@ -8,10 +8,11 @@ Here I document my progress through courses, labs, and personal projects.
 ## 🔍 Index
 - [Incident Reports](#incident-reports)
 - [Labs & Write-ups](#labs--write-ups)
-- [Notes](#notes)
+- [Notes](Notes/Coursera-Unit-1.md)
 - [Scripts](#scripts)
 
----
+----
+
 
 ## 🧠 Incident Reports
 - Brute Force Detection in Splunk (coming soon)
